@@ -6,5 +6,10 @@
                  "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/frame3.png",
                   "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/herzel.png",
                   "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/frameknite.png"],
-    "numberframe": ["0","1","2","3","4","5","6"]
+    "numberframe": ["0","1","2","3","4","5","6"],
+    "allsticers":["https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/noneicon.png",
+                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/students.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/love.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/corne.png"],
+    "numberstick":["0","1","2","3","4"]
 }
