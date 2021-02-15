@@ -20,18 +20,18 @@
         {
             "id":"Eliezerfamily",
             "allframe": ["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
-                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/eliframe-01.png",
-                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/eliframe-02.png",
-                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/eliframe-03.png",
-                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/eliframe-04.png"],
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/elitwoframe-01.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/elitwoframe-02.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/elitwoframe-03.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/elitwoframe-04.png"],
              "numberframe": ["0","1","2","3","4"],
              "allsticers":["https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/noneicon.png",
-                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elisticers-01.png",
-               "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elisticers-02.png",
-               "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elisticers-03.png",
-                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elisticers-04.png",
-                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elisticers-05.png",
-                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elisticers-06.png"],
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elitwosticer-01.png",
+               "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elitwosticer-02.png",
+               "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elitwosticer-03.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elitwosticer-04.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elitwosticer-05.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/elitwosticer-06.png"],
               "numberstick":["0","1","2","3","4","5","6"]
         }
     ]
