@@ -13,8 +13,8 @@
                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/corne.png",
                  "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/mask.png"],
     "numberstick":["0","1","2","3","4"],
-    "customer":{
-        "cu":{
+    "customer":[
+        {
             "id":"regular",
             "allframe": ["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/famely3.png",
@@ -30,6 +30,23 @@
                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/corne.png",
                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/mask.png"],
             "numberstick":["0","1","2","3","4"]
+        },
+        {
+            "id":"tnuva",
+            "allframe": ["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/famely3.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/frame.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/framefamlyday.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/frame3.png",
+                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/herzel.png",
+                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/frameknite.png"],
+             "numberframe": ["0","1","2","3","4","5","6"],
+             "allsticers":["https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/noneicon.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/students.png",
+               "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/love.png",
+               "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/corne.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/mask.png"],
+            "numberstick":["0","1","2","3","4"]
         }
-    }
+    ]
 }
