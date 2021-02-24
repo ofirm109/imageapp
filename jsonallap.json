@@ -66,6 +66,23 @@
                          "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/tests-06.png"],
             "numberstick":["0","1","2","3","4","5","6"]
         },
+         {
+            "id":"test",
+            "allframe":["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
+                        "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/testf-04.png",
+                        "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/testf-05.png",
+                        "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/testf-02.png",
+                        "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/testf-01.png"],
+            "numberframe": ["0","1","2","3","4"],
+            "allsticers":["https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/noneicon2.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-08.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/tests-02.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/tests-03.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/tests-04.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/tests-05.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/tests-06.png"],
+            "numberstick":["0","1","2","3","4","5","6"]
+        },
         {
             "id":"meira",
             "allframe":["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
