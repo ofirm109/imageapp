@@ -1,5 +1,36 @@
 {
     "customer":[
+             {
+            "id":"regular",
+            "allframe": ["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
+                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/k-03.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/famely3.png",
+                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/k-04.png",
+                  "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/k-05.png",
+                   "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/k-07.png",
+                    "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/k-06.png",
+                "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/frame3.png",
+                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/k-01.png",
+                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/k-02.png",
+                 "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/frameknite.png"],
+             "numberframe": ["0","1","2","3","4","5","6","7","8","9","10"],
+             "allsticers":["https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/noneicon2.png",
+                            "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/mask.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/corne.png",
+                            "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-01.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-02.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-03.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-04.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-05.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-06.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-07.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-08.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-09.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/1-10.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/students.png",
+                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/love.png"],
+            "numberstick":["0","1","2","3","4","5","6","7","8","9","10","11","12","13","14"]
+        },
         {
             "id":"12345",
             "allframe": ["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
@@ -162,6 +193,19 @@
                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/herzel het new-15.png",
                          "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/herzels-11.png"],
             "numberstick":["0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17"]
+        },
+         {
+            "id":"ליטל ציפורניים",
+            "allframe":["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
+                        "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/lital-01.png",
+                        "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/lital-02.png"],
+            "numberframe": ["0","1","2"],
+            "allsticers":["https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/noneicon2.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/litals-01.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/litals-02.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/litals-03.png",
+                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/litals-04.png"],
+            "numberstick":["0","1","2","3","4"]
         }
     ]
 }
