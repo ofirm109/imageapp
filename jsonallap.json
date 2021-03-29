@@ -132,10 +132,9 @@
         {
             "id":"meira",
             "allframe":["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
-                        "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/1617037456688-download.svg",
                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/herzel-09.png",
                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/herzel2-08.png"],
-            "numberframe": ["0","1","2","3"],
+            "numberframe": ["0","1","2"],
             "allsticers":["https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/noneicon2.png",
                          "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/herzel het-01.png",
                          "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/herzel het-02.png",
