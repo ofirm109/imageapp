@@ -132,11 +132,12 @@
         {
             "id":"הרצל",
             "allframe":["https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/none.png",
+                        "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/herzelsems.png"
                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/sumer1.png",
                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/sumer2.png",
                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/herzel-09.png",
                         "https://raw.githubusercontent.com/ofirm109/imageapp/main/frams/herzel2-08.png"],
-            "numberframe": ["0","1","2","3","4"],
+            "numberframe": ["0","1","2","3","4","5"],
             "allsticers":["https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/noneicon2.png",
                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/sumerstic-18.png",
                           "https://raw.githubusercontent.com/ofirm109/imageapp/main/sticers/sumerstic-19.png",
